@@ -78,7 +78,7 @@ def start_after_string(what, from_string):
     return answer
 
 def init_embeddings():
-    embeddings = OpenAIEmbeddings(model=OPENAI_EMBEDDING_MODEL_NAME, chunk_size=1)
+    embeddings = OpenAIEmbeddings(model=OPENAI_ADA_EMBEDDING_MODEL_NAME, chunk_size=1)
     return embeddings
 
 
