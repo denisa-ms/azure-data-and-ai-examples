@@ -1,0 +1,29 @@
+Work Experience
+Staff Engineer Stripe Feb, 2020 - Current
+Led scope, planning, and design of the Checkout API with 3 teams and over 25 stakeholders.
+The Checkout APIreduced integration issues by 18% over its 100,000+ users.
+Software Engineer Stripe 2017 - 2020
+Collaborated with the product team to implement API simplications to the Python SDK, leading to a 23% reduction
+of support requests and GitHub issues.
+Worked with a technical writer to increase the clarity of the python SDK documentation.
+Software Engineer GitHub 2014 - 2017
+Worked with third parties and open source developers to design and build APIs for the release of GitHub
+Marketplace. They are now used to power thousands of integrations that are critical to the software development
+lifecycle of millions of projects.
+Led integration of the Chromium rendering integration for Atom, which is now used by millions of people and is a
+critical component of Electron.
+Software Engineer Airbnb 2012 - 2014
+Worked on a team of three,responsible for refactoring the APIto be RESTful.
+Optimized SQL queries leading to a 15% reduction in p95 response times.
+Education
+BSc. Computer Science Harvard 2008 - 2012
+Skills
+API Design REST APIs JavaScript GraphQL Python Java AWS
+Maria Clarke
+Software Engineer
+San Francisco, CA
+github.com/maria
+maria@email.com
+555-555-5555
+A technical leader with eight years of experience designing, planning, and
+implementing internal and external APIs at scale.

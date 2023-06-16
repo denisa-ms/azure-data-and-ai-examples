@@ -1,0 +1,94 @@
+DAMIEN O'SULLIVAN
+Software Engineer
+Dublin, Ireland
+|
+damien.ie
+WORK EXPERIENCE
+HUBSPOT
+Senior Software Engineer
+|
+Jun 2020 - Current
+😃
+DISPLAYR
+Software Engineer
+|
+Jul 2018 - Feb 2020
+Displayr is a software company that specializes in Market Research software.
+Displayr have two software offerings; Q (a windows application) & Displayr (a web
+application). Here are some of my responsibilities:
+• Contribute to Displayr by adding features (C# & TypeScript), solving bugs
+(external customer reported) & contributing to the test suite (Selenium in
+Java)
+• Contribute to Q (desktop application) by monitoring incoming requests
+and fixing bugs (C#)
+• Respond to time sensitive customer requests that contribute to growth
+(i.e., sales)
+• Support and work alongside the in-house Data Scientists in order to bring
+advanced features to market such as Choice Modelling
+• Modernize the build, deploy & release process using automation tools
+such as AppVeyor and the Azure API
+AMAZON
+Software Development Engineer 2
+|
+Oct 2016 - Jan 2018
+After transferring internally to AWS Monitoring, I joined the CloudWatch Console UI
+team who owned the the customer facing UI for AWS' metric and alarming service.
+Below are some key moments:
+• Adding the ability to hide autoscaling alarms (legacy gwt code) from the
+alarms summary. This was a highly requested feature by AWS customers
+• Adding the ability to specify any previous Console UI deployment frontend code to be executed against the checked-out version of the back-end
+code (API). This was for backwards compatibility testing after a bad
+deployment
+• Owning and delivering the UI development of Metric Math, CloudWatch's
+newest feature that allows metrics to me manipulated and normalised via
+expressions - https://amzn.to/2HcTBwz
+AMAZON
+Software Development Engineer 1 |
+Jun 2014 - Sep 2016
+Upon first joining Amazon, I was a member of a team who developed several tools
+used daily by Network Engineers to maintain (update, change, fix, etc.) the evergrowing Amazon network. Here are some personal highlights:
+• Creating and owning a tool that allowed the updating of OS Firmware on
+JUNOS devices in a hands-off manner
+• Contributing to an org-wide push for automation (supervised automated
+execution) implementing safety measures and auditing of changes to be
+executed
+• Designing, peer-reviewing, and building a web portal to aggregate the
+many networking services into one over-arching view of the entire
+network
+• Driving adoption by talking to, and surveying, the most active users and
+quickly iterating changes based on feedback. Now widely used among
+Amazon Network Engineers
+ERICSSON
+Software Development Intern|
+Apr 2012 - Mar 2013
+Internship @ Ericsson
+EDUCATION
+UNIVERSITY COLLEGE CORK
+Bachelor of Science (B.Sc.) Computer Science |
+2009 - 2014
+First Class Honours
+PROJECTS
+ONENOTE.ME
+Creator |
+Jan 2020 - Feb 2020
+I made this as I struggled with sharing deep links to OneNote in Slack and other
+applications. OneNote links use a "onenote:" prefix that opens links in OneNote,
+however this does not work with chat apps. Using OneNote.me solves this issue.
+SKILLS
+• Communication
+• Web Development
+• Teamwork
+• Software Design
+• Leadership
+• Time Management
+• Quick Learner
+• Problem Solving
+• Javascript
+• React
+• Java
+• Python
+• HTML + css
+• AWS
+• Linux
+• MySQL
+• Azure

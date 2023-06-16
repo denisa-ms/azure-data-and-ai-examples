@@ -1,0 +1,122 @@
+Andrea Macdonald
+
+Angular Developer
+
+615-644-7857
+
+andreamacdonald@dayrep.com
+
+linkedin.com/in/andreamacdonald
+
+ 
+
+Summary
+
+ 
+
+An adept Angular developer with 5+ years of experience who contributed to building dynamic user interfaces and web applications with Angular 2/4/6/8, JavaScript, TypeScript, HTML, and CSS. At Nox, improved user engagement by 40% through the design and implementation of a progressive web application. Seeking an Angular developer role at Zaxio to drive innovation and impactful projects.
+
+ 
+
+Work Experience
+
+ 
+
+Senior Angular Developer
+
+Nox, Seattle, WA
+
+January 2021–Present
+
+Key Qualifications & Responsibilities
+
+Led the development and deployment of multiple web applications using Angular 9/10, RxJS, Material Design, and NgRx.
+Developed RESTful APIs and microservices using Node.js and Express.js, improving backend performance by 40%.
+Created custom dashboards and data visualizations using D3.js and Highcharts.js, improving data insights and decision-making capabilities by 50%.
+Mentored junior developers and conducted code reviews, improving code quality and knowledge sharing across the team.
+ 
+
+Key Achievement: 
+
+Successfully designed and implemented a progressive web application that increased user engagement by 40%.
+ 
+
+Angular Developer
+
+MindSeed, San Francisco, CA
+
+August 2019–December 2020
+
+Key Qualifications & Responsibilities
+
+Led the development of several web applications using Angular 7/8, TypeScript, HTML, and CSS.
+Developed reusable components and services that improved code efficiency by 20%.
+Worked with cross-functional teams to design and implement new features, resulting in a 30% increase in user engagement.
+ 
+
+Key Achievement: 
+
+Successfully implemented a payment gateway integration that increased customer conversions by 25%.
+ 
+
+Junior Angular Developer
+
+MindSeed, San Francisco, CA
+
+March 2018–July 2019
+
+Key Qualifications & Responsibilities
+
+Developed and maintained web applications using Angular 6, HTML, CSS, and JavaScript.
+Collaborated with the team to design and implement new user interfaces, improving the user experience by 25%.
+Reduced page load times by 15% by optimizing backend APIs and services.
+Worked on projects that involved integrating third-party libraries and RESTful APIs.
+ 
+
+Key Achievement: 
+
+Successfully implemented a search functionality that reduced search times by 30%.
+ 
+
+Education
+
+ 
+
+Bachelor of Science in Computer Science
+
+University of California, Los Angeles (UCLA), Los Angeles, CA
+
+September 2014-June 2018
+
+ 
+
+Skills
+
+ 
+
+Angular 2/4/6/8
+TypeScript
+JavaScript
+RESTful APIs
+HTML/CSS/SCSS
+Teamwork and collaboration
+Communication and interpersonal skills
+Quick learner and adaptability
+Time management and organization
+Problem-solving and critical thinking
+ 
+
+Interest
+
+ 
+
+Contributing to Angular Material Design
+Hosting local Angular meetups 
+ 
+
+Languages
+
+ 
+
+English—Native 
+Dutch—Advanced 

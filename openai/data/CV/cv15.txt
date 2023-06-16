@@ -1,0 +1,103 @@
+Eldon Tyrell
+
+eldon.tyrell@gmail.com
+
+555-75-555-75
+
+ 
+
+Objective
+
+ 
+
+Energetic and curiosity-driven Android developer with 5+ years of experience writing top-quality clean code for high-paced businesses. Eager to support Adobe in modernizing its world-class products and delivering an incredible user experience. In previous roles created a top-selling app for kids (250K+ downloads to date) that brought in upwards of $300K.
+
+ 
+
+Work Experience
+
+ 
+
+Senior Android Developer
+
+Nozdyveh, Los Angeles, CA
+
+2015–
+
+Implemented features for various applications in Java, Kotlin, and C++.
+Determined architectural and product design details for open-ended tasks or specifications.
+Collaborated with quality engineers, user research, product management, design, and support teams to ensure quality in all phases of app development.
+Worked closely with core technology teams and other platform teams to balance cross-platform consistency with Android-optimization.
+Wrote elegant, self-documenting code, easy to read and adapt for other developers.
+Reviewed design specs and engineering docs and provide feedback.
+Key achievements:
+
+Created and tested 25+ Android apps and games that brought in about $300K within a 6-month period.
+Integrated third party libraries including Picasso and ActionBarSherlock
+Implemented Clean Architecture using Dagger2 nad RxJava.
+ 
+
+Android Developer
+
+MLT-DD, Los Angeles, CA
+
+2013–2015
+
+Developed native Android applications and frameworks using Kotlin and Java.
+Defined and implemented robust app architectures and complex user interfaces.
+Applied expert knowledge of Android system frameworks to solve novel problems.
+Collaborated with designers, engineers, and product managers to build great experiences.
+Worked with BLE, beacons, and connected devices.
+Key achievement:
+
+Created a free Math app for kids that was downloaded over 250K times.
+ 
+
+Education
+
+ 
+
+B.A., Software Engineering
+
+UCLA, Los Angeles, CA
+
+2013
+
+ 
+
+Key Skills
+
+ 
+
+Software engineering
+Analytical skills
+Open-mindedness
+Graphics and image-processing (OpenGL, Vulkan)
+Android development and architecture
+C++ with Android NDK integration
+Unit testing
+End-to-end systems
+Collaboration
+ 
+
+Certifications
+
+ 
+
+Associate Android Developer—Google
+ 
+
+Languages
+
+ 
+
+Spanish—Bilingual
+French—Communicative
+ 
+
+Interests
+
+ 
+
+Downhill mountain bike racing
+Biotechnology

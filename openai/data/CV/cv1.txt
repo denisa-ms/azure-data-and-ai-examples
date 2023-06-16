@@ -1,0 +1,65 @@
+Jordan Zhu
+linkedin.com/in/jordanzhu
+
+Work Experience
+Solutions Architect
+Stripe
+Jun 2021 - Nov 2022
+• Lead Solutions Architect for Startup segment, partnering cross-functionally
+with Account Executives and Implementation Consultants to help acquire and
+deploy prospective high value users on Stripe (including Payments, Billing,
+Connect, Issuing, etc)
+• Impacted ~160 deals in a 12 month span, resulting in ~$3M in projected
+recurring yearly profit (highest staffed SA in segment)
+• Technical and subject matter expert on Stripe's product suite and customer
+personas -- crafted custom proof-of-concept prototypes, answered
+integration questions, and debugged API-related issues to allow users to
+competitively evaluate Stripe's GTM bundles
+• Led multiple internal projects focused on knowledge sharing (including crossorganization training on Stripe's Banking-as-a-Service products), best
+practices, and scaling SA org impact
+
+Software Engineer
+Amazon
+Mar 2019 - Apr 2021
+• Tech lead for rule processor: built UI for marketers to select customizable
+rules and backend to process rules in AWS EMR. Ingest and filter against
+millions of records daily, and output result to marketers. Sped up system by
+6x.
+• Technical lead for project to enable marketers to send daily intelligent,
+machine-learning driven insights to Amazon advertisers.
+• Led re-architecture of existing system into a more scalable approach,
+involving multiple designs and spanning months. Built system capable of
+ingesting millions of records.
+• Led initiative to improve operational excellence: enabled full end-to-end
+testing of internal tool and added a system health check that alarmed
+engineers when a code deployment would cause failures. Decreased CPU
+usage of internal service from 90% to 10%.
+• Participated in monthly, 24/7 one week on-call rotation. Engage with
+customers to discover and debug issues, and discuss with product managers
+to add feature requests to roadmap.
+• Led investigation into major system failures and presented two 6-page
+reports to leadership. Fixed all bugs documented in report.
+
+Education
+Machine Learning Specialization (3 courses)
+Coursera
+Supervised Machine Learning: Regression & Classification. Advanced Learning
+Algorithms (Neural Networks & Decision Trees). Unsupervised Learning,
+Recommenders, Reinforcement Learning
+Nov 2022 - Jan 2023
+B.S.E. in Computer Science
+University of Michigan
+Sep 2014 - Dec 2018
+
+Skills
+• AWS
+• Python
+• C++
+• Java
+• SQL
+• React
+• Node.js
+• Javascript
+• HTML
+• CSS
+• Ruby

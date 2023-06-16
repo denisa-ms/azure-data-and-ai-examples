@@ -1,0 +1,66 @@
+JEFF LEU
+Software Engineer
+San Francisco, CA
+I'm a full stack software engineer with experience in integrating many different tools and web
+frameworks together to develop a variety of different applications. I absolutely love programming,
+from designing system architecture for full stack apps to diving deep into frameworks and
+problem solving. I enjoy working on fun, collaborative teams that focus on optimization of
+applications and integrating additional features.
+WORK EXPERIENCE
+EBAY
+Software Engineer
+|
+Feb 2018 - Current
+• Created features for an application that receives over one billion views per day
+• Developed guest watch feature which increased the guest purchase rate by 5%
+• Utilized Jest testing framework to increase code coverage from 37% to over 80%
+• Resolved a large amount of accessibility bugs, reducing number of bugs by 65%
+SPRINGBOARD AUTO
+Software Engineer
+|
+May 2017 - Sep 2017
+• Developed Angular components, services, and directives, reusable through entire
+application
+• Designed API endpoints to send & receive data from PostgreSQL database
+• Implemented and optimized modular end-to-end features
+• Wrote integration & unit tests for application routes using Mocha & Chai
+• Utilized MongoDB to review logs, diagnose and resolve production bugs
+WALMART GLOBAL ECOMMERCE
+UI Developer
+|
+Nov 2016 - Current
+• Developed apps utilizing JS and React/Redux for customer service to support
+requests
+• Contributed to UI platform releases by building features and implementing bug fixes
+• Wrote unit and integration tests to ensure that bug fixes and enhancements work as
+expected
+• Refactored numerous application components, migrating large code base to Redux
+• Integrated RESTful API services to retrieve data from Java back end and render on
+front end
+RESTORATION HARDWARE
+Application Database Analyst
+|
+Nov 2012 - Jul 2015
+• Eliminated many manual work streams by writing complex queries for various
+business teams
+• Resolved errors in inventory management systems using SQL to keep transactions
+flowing
+• Resolved errors in inventory management systems using SQL to keep transactions
+flowing
+• Maintained DB by clearing out erroneous data and adding missing info, preventing
+errors
+• Utilized AS/400 for executing SQL queries, configuring fast paths and resolving
+order errors
+• Configured update files and deployed to servers to keep all registers up to date See
+less
+EDUCATION
+SAN FRANCISCO STATE UNIVERSITY
+Bachelor of Science Information Systems | Jun 2010 - May 2012
+SAN FRANCISCO STATE UNIVERSITY
+Bachelor of Science E-Commerce | Jun 2010 - May 2012
+PROJECTS
+DUNGEON VICE
+Lead Game Developer | Nov 2017 - Current
+Founded an independent game studio with two other members, Cayman and Matthew Santoro.
+Currently in development is our first game entitled Dungeon Vice, a retro style third person
+dungeon crawler set in the 80s with amazing synthwave music and beautiful pixel art.

@@ -1,0 +1,45 @@
+Mei Chen
+
+Software Developer
+
+Summary
+
+I am a software developer with 5 years of experience in big data technologies. I have a strong background in data analysis, data modeling, and data visualization. I am proficient in programming languages such as Python, Java, and Scala. I am also experienced in working with big data technologies such as Hadoop, Spark, and Hive.
+
+
+Work Experience
+
+Software Developer, ABC Company
+
+January 2019 - Present
+
+
+Developed and maintained data pipelines using Apache Spark and Hadoop.
+
+Designed and implemented data models for large-scale data processing.
+
+Created data visualizations using Tableau and D3.js.
+
+Worked with cross-functional teams to identify and solve data-related issues.
+
+
+Data Analyst, XYZ Company
+
+June 2017 - December 2018
+
+
+Conducted data analysis and created reports for business stakeholders.
+
+Developed and maintained ETL pipelines using Python and Apache Airflow.
+
+Worked with data scientists to develop predictive models for customer behavior.
+
+Created dashboards using Tableau for data visualization.
+
+
+Education
+
+
+Bachelor of Science in Computer Science, University of California, Los Angeles (UCLA)
+
+Master of Science in Data Science, University of Southern California (USC)

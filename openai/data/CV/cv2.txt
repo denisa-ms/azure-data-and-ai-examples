@@ -1,0 +1,104 @@
+NICK GERNER
+Entrepreneur & Software Engineer
+Washington, DC
+|
+njgerner.com
+Experienced Software & Machine Learning Engineer with a demonstrated history of
+working in the venture technology industry. Skilled in application & API development,
+cloud technologies, machine learning, and AI. Strong entrepreneurial & engineering
+professional with a Master's Degree focused in Computer Science from The Johns
+Hopkins University.
+WORK EXPERIENCE
+FOUNDRY.AI
+Principal Software Engineer
+|
+Apr 2016 - Current
+Head of Engineering at Curia.ai, an AI Healthcare startup based in Washington, D.C.
+We are building a full-service machine learning platform to help healthcare
+companies deliver better outcomes and reduce the cost of care. Our platform allows
+customers to build custom machine learning models that they can use to better
+target patient populations for treatment.
+At Curia, I have:
+• Designed, built, and managed the Curia AI Platform
+(https://www.curia.ai/the-curia-platform), a full-service platform that
+handles the full data science lifecycle for healthcare enterprises.
+(Typescript, Python, Spark, AWS, Terraform)
+• Lead the platform team from the proof of concept stage to 10+ FTE and
+growing.
+• Lead technical strategy
+Previously ran teams for several Foundry.ai portfolio companies; Vizual.ai, HUD.ai,
+Supplier.ai, and Predion.ai.
+Curia.ai was built within Foundry.ai, a leading venture-backed technology studio with
+over $70 million in funding that creates innovative AI software companies.
+GHOST CREATIVE
+Managing Partner
+|
+Nov 2015 - Oct 2018
+Co-founder and partner at Ghost Creative, a DC-based software development
+company & technical consulting firm. We worked with small to medium-sized
+businesses to help integrate modern technology platforms into their business. Our
+past clients have been in the medical, entertainment, and marketing industries
+among others.
+BIZY
+Software Engineer
+|
+Jan 2014 - Jan 2016
+At Bizy I led a team of full-stack and mobile engineers in the development of our
+team collaboration and productivity application.
+Oversaw a small team of engineers utilizing various full-stack technologies such as
+Node.js, AngularJS, Express, Ionic, Orchestrate DbaaS, Redis, and a number of
+other cloud computing services. In addition, began the development of an iOS
+mobile application to help test and prototype team dynamics and decision-making
+concepts.
+ACCENTURE
+Senior Consulting Analyst - Systems Integration
+|
+Jun 2013 - Jan 2014
+At Accenture I was a full stack developer, my main client during my time there was
+the US Postal Service. I ran the development of an analytics dashboard, geared at
+helping our clients better understand the impact of a number of initiatives Accenture
+was working on with them at the time.
+EDUCATION
+JOHNS HOPKINS UNIVERSITY
+M.S. Computer Science
+|
+Jul 2014 - Feb 2016
+JOHNS HOPKINS UNIVERSITY
+B.S. Electrical Engineering
+|
+Aug 2009 - May 2013
+Activities and Societies: Hopkins Undergraduate Engineering Society, Pi Kappa
+Alpha Fraternity, Pre-Law Society, Varsity Track and Field Athlete, Orientation
+Assistant, Charles F. Bonilla Scholarship Recipient
+SKILLS
+• Javascript
+• AWS
+• Machine Learning
+• Vue.js
+• Project Management
+• Data Analysis
+• Artificial Intelligence
+• Client Relations
+• Terraform
+• Spark
+• Docker
+• Team Management
+• Distributed Systems
+• AngularJS
+• Node.js
+• Vue.js
+• Redis
+• MySQL
+• Elasticsearch
+• NoSQL
+• Algorithm Development
+• Express.js
+• Python
+• Data Analysis
+• Hapi.js
+• Stripe
+• Java
+• PHP
+• React
+• Business Development
+•

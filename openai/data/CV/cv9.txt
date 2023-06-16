@@ -1,0 +1,35 @@
+Cupertino, CA
+maia@email.com
+5555555555
+github.com/maia
+Maia Pearce, iOS Developer
+I have delivered world-class user experiences to millions of
+people. Well-versed with Swift, Objective-C, and most of the
+Apple frameworks.
+Work Experience
+Apr, 2018 - Current Square, Mobile Developer, Cash App
+Worked closely with design to prototype and implement investing charts with
+over a million monthly users.
+Built boosts UI that lead to a 15% increase in Cash App retail purchases.
+2017 - 2018 Apple, Software Engineer, iOS
+Deeply integrated Workflow with iOS using internal SPIs, leading to a substantial
+increase in the number of possible automations.
+Wrote new integrations using Swift, resulting in a 25% performance improvement.
+2015 - 2017 Workflow Acquired by Apple), iOS Engineer
+Worked with Swift and objective-c to set up integrations with third party apps.
+Used iOS and watchOS APIs to deliver a seamless experience across iPhones,
+iPads, and Apple Watches.
+Education
+2011 - 2015 Stanford, BSc. Computer Science
+Skills Languages
+Swift
+Objective-C
+Ruby
+Frameworks
+UIKit
+AppKit
+Cocoa Touch
+Other
+Xcode
+Git
+Linux

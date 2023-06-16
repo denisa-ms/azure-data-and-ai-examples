@@ -1,0 +1,92 @@
+Vivian Auduong
+Engineering Student @ Stanford
+|
+vauduong.github.io
+Electrical engineering and computer science student at Stanford University interested in
+building things, solving problems, working with people, and improving technical skills
+Education
+Stanford University
+BS Electrical Engineering, MS Computer Science
+Sep 2018 - Jun 2024
+Projects and Leadership
+Team Lead, Chavin de Huantar, Peru Archaeology AR
+Project
+Stanford Engineers for a Sustainable World (ESW)
+Jan 2020 - Jun 2020
+•Led team of 4 engineering students to assess needs of archaeologists at
+UNESCO heritage site, developing AR android app using Unity to showcase
+virtually reconstruct temple
+Immerse Cohort Co-lead
+Stanford XR
+Sep 2019 - Nov 2019
+•Facilitated and developed bootcamp for 25 students, introducing topics in
+immersive media through field trips and workshops in Blender, design
+thinking, Snapchat, and Unity
+Work Experience
+Stanford Electrical Engineering
+Research Intern
+Mar 2022 - Aug 2022
+•Research intern in Eric Pop’s Lab, integrating NFC sensors with wearable
+cancer detection device
+USA Pavilion, Expo 2020 Dubai
+Youth Ambassador
+Sep 2021 - Jan 2022
+•Welcomed U.S. officials and international delegates, shared knowledge on
+Pavilion exhibits and U.S. history and culture, and built people-to-people
+connections with visitors from all over the world.
+NASA
+Virtual Reality Intern
+Jun 2021 - Aug 2021
+•Worked on Greater Heights Narrative experience, which immerses the user in
+the story of Neil Armstrong's test flights.
+Facebook
+Software Engineering Intern, AI Habitat team
+Jan 2021 - Mar 2021
+•Worked with C++ and OpenGL to improve virtual sensors in graphics
+simulation platform used to train virtual robots and conduct research in
+Embodied AI
+Swope Design Solutions
+Fabrication Engineering Intern
+Sep 2020 - Dec 2020
+•Worked on silicone molding, CNC machining, laser cutting, 3D printing,
+Solidworks CAD, internal product development, and prototype assembly
+and testing at engineering consulting firm
+Stanford Intelligent Systems Laboratory
+Research assistant
+Sep 2020 - Mar 2021
+•Helped develop an uncertainty-aware novel 3D implicit surface construction
+technique using machine learning and kernel density estimation
+Facebook
+Software Engineering Intern, Portal core technology team
+Jun 2020 - Aug 2020
+•Worked with Java and Dependency Injection to reduce total apk size across
+over 40 apps on Portal, Facebook's Android-base video conferencing
+device
+Stanford University
+Volunteer Section Leader, CS106 Code in Place
+Apr 2020 - May 2020
+•Led weekly problem solving groups in Stanford's experimental online
+computer science course
+Stanford Archaeology Department
+Research Intern
+Jun 2019 - Aug 2019
+•Worked with international researchers in the excavation of a UNESCO World
+Heritage Site, Chavin de Huantar, developing analytical and interpersonal
+communication skills and working entirely in Spanish
+•Photogrammetry and technical drawing experience
+Awards and Achievements
+FroSoCo 2020 Patty Jeanne Semura Outstanding Sophomore Award for community
+building
+Stanford Arts Hackathon 2019 2nd place Team
+CalHacks 5.0 Hackathon 2018 Blackrock API Sponsor Prize
+Techcrunch Disrupt Virtual Hackathon 2018 Runner Up
+Skills
+CS and Software
+Experience with Matlab, Blender, Solidworks, Unity, Python, Java, C, C++, CSS,
+Javascript, HTML, Adobe Premiere for VR film, Adobe Photoshop; with eagerness to
+keep improving and learning new technologies
+Languages
+English - Native proficiency Cantonese - Native speaking proficiency Mandarin -
+Professional working proficiency Spanish - Basic working proficiency
+Personal Interests
+Virtual Reality, Design, Cultural Heritage, Archaeology

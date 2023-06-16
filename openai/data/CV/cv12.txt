@@ -1,0 +1,72 @@
+ALEXIS MATTOS-VABRE
+Software Developer & Data Scientist
+San Francisco, CA | figure8labs.com
+I've always been a builder and analyst of systems, abstract or concrete. I currently
+am advancing my education in the direction of machine learning and artificial
+intelligence. With a solid basis in web programming and software architecture, I'm
+also a highly motivated, curious, innovative and results-oriented individual seeking a
+full-time position in a company where hybrid career types are valued.
+WORK EXPERIENCE
+ARTICULATE RESEARCH
+Data Science & Data Visualization Consultant | Feb 2016 - Current
+• Used Caffe, Theano (Keras), Lasagne, scikit-learn, TensorFlow and
+custom algorithms to complete projects.
+• Used libraries/tools such as D3 and Processing to create data
+visualizations
+• Research in current social problems using public data (Basic Income &
+Poverty in the San Francisco Bay Area, Time-Banking)
+• Policy development through data analysis and predictive analytics
+KINKBNB
+Data Product Architect & Software Engineer | Jan 2016 - Current
+• Created new rental reservation system in Django/Python with a fully
+integrated CMS, analytics and data visualization.
+• Implemented the use of Docker and MicroServices.
+• Managed and created sprints in SCRUM methodology.
+• Created migration plan for legacy PHP system to new Django stack.
+FIGURE8LABS
+Creative Technology Consulting | Jun 2008 - Current
+Web, marketing, and communications consulting as well as development, design,
+and UX design.
+• Clients include: Chanel, LVMH, Au Feminin, Le Manoir de Paris, Barbara
+Bui, FITC, Circus Automatic, Sensoree
+CIRCUS AUTOMATIC
+Technical Director | Jun 2014 - Aug 2016
+• Networked wall of 45 LCD screens using Raspberry PIs and software in
+python
+• Managed and developed code base for robotics development
+MEDIAPILOTE PARIS
+Technical Director
+|
+Mar 2010 - Mar 2011
+• Advise and develop technical strategies for web and HCI projects
+• Develop custom modules for the branded CMS using php, ajax, and css.
+• Integrate creative and technical concepts, and advise on technical
+feasibility and cost.
+LOGIKART
+Full-stack web developer | Dec 2007 - Jun 2008
+• Created Modules in PHP and AJAX primarily to extend OScommerce.
+• Maintained the webstore and servers for LOLLIPOPS, a webshop with an
+international presence (with over 100 physical boutiques worldwide)
+EDUCATION
+UNIVERSITY OF CALIFORNIA, SANTA CRUZ
+BFA Fine Arts | Sep 2000 - May 2005
+GENERAL ASSEMBLY
+Certificate Data Science | Feb 2016 - May 2016
+UDACITY
+Nanodegree Machine Learning | Jul 2016 - Current
+I'm currently pursuing a certificate program in Machine Learning and participating in
+the Beta version of the Self-driving car programming nanodegree
+SKILLS
+• predictive analytics
+• statistical analysis
+• python
+• algorithm development
+• php
+• data visualisation
+• splunk
+• ux design
+• scikit-learn
+• keras
+• caffe
+• data visualization
+• data analytics

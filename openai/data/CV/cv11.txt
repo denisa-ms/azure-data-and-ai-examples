@@ -1,0 +1,33 @@
+WORK EXPERIENCE
+STRIPE
+Sta Engineer | Feb, 2020 - Current
+Led scope, planning, and design of the Checkout API with 3 teams and over 25 stakeholders.
+The Checkout API reduced integration issues by 18% overits 100,000+ users.
+Helped develop technical onboarding process for new engineers.
+Soware Engineer | 2017 - 2020
+Collaborated with the product team to implement API simplications to the Python SDK, leading to a 23%
+reduction of support requests and GitHub issues.
+Worked with a technical writerto increase the clarity of the python SDK documentation.
+GITHUB
+Soware Engineer | 2014 - 2017
+Worked with third parties and open source developers to design and build APIs forthe release of GitHub
+Marketplace. They are now used to powerthousands of integrations critical to the soware development
+lifecycle of millions of projects.
+Led integration of the Chromium rendering integration for Atom, which is now used by millions of people and
+is a critical component of Electron.
+AIRBNB
+Soware Engineer | 2012 - 2014
+Worked on a team of three, responsible forrefactoring the API to be RESTful.
+Optimized SQL queries leading to a 15% reduction in p95 response times.
+EDUCATION
+HARVARD
+BSc. Computer Science | 2008 - 2012
+SKILLS
+API Design REST APIs JavaScript GraphQL Python Java AWS
+MATT VAUGHN
+Soware Engineer
+Austin, TX | github.com/ma | ma@email.com | 555-555-5555
+Atechnical leader with eight years of experience designing, planning, and implementing internal and external
+APIs at scale.
+M
+V

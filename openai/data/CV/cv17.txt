@@ -1,0 +1,91 @@
+Christopher L. Hall
+
+AWS Certified Solutions Architect
+
+christopher.hall@gmail.com
+
+(951) 756-5600
+
+linkedin.com/in/christopherhall
+
+ 
+
+Summary of Qualifications
+ 
+
+AWS-certified big data solution architect with 4+ years of experience driving information management strategy. Strategized, designed, and deployed innovative and complete security architecture for cloud data protection for 15 Fortune 500 companies. Seeking to leverage high-level understanding of Amazon Web Services global infrastructure and service migrations to become the senior solution architect at Atlassian.
+
+ 
+
+Work Experience
+ 
+
+Cloud Solution Architect
+May 2017–July 2019
+Jamma Technologies, Los Angeles, CA
+
+Key Qualifications & Responsibilities
+
+Designed and edited blueprints for IT infrastructure and networking architecture according to management’s demands.
+Monitored existing infrastructure and architectural frameworks for performance, and made changes and updates when necessary.
+Kept up to date with latest industry knowledge and news to maintain and improve enterprise and business platforms.
+Communicated target architectural plans and company roadmaps across all departments.
+Key Achievements
+
+Strategized, designed, and deployed innovative and complete cloud data security architecture for 15 Fortune 500 companies.
+ 
+
+Enterprise Solution Architect
+February 2015–May 2017
+Leesing Square Capital Group, Irvine, CA
+
+Key Qualifications & Responsibilities
+
+Developed enterprise architectural blueprints, along with descriptive documentation for all stakeholders.
+Designed and tweaked global AWS infrastructure, including nodes in 12 regions and 52 sub-regions.
+Migrated applications, accounts, and platforms when necessary and feasible. 
+ 
+
+Education
+ 
+
+Bachelor of Science in Computer Science
+
+Stanford University, Stanford, CA
+
+Graduation: 2014
+
+Relevant Coursework: Business Architecture Elements, Enterprise Architecture, Infrastructure Architecture, Software Architecture, IT Project Management, Cloud Management Solutions, Network Infrastructure, Cloud Security, Fundamentals of Enterprise Solutions Architecture. 
+
+ 
+
+Key Skills
+ 
+
+Authentication systems
+System, platform, and account migrations
+Data and cloud security
+AWS cloud infrastructure
+Virtual environment design and implementation
+ 
+
+Certifications
+ 
+
+AWS Certified Solutions Architect — Professional
+Google Cloud Certified — Professional Cloud Architect
+Open Group Certified Architect (Open CA)
+IASA Certified IT Architect Professional (CITA-P)
+ 
+
+Memberships
+ 
+
+International Association for Solution Architecture (IASA)
+The Association of Enterprise Architects (AEA)
+ 
+
+Languages
+ 
+
+Portuguese (Portugal): Professional Working Proficiency
