@@ -1,0 +1,69 @@
+
+.create table [bronzeProducts] (ProductID:int,Name:string,ProductNumber:string,Color:string,StandardCost:real,ListPrice:real,Size:string,Weight:string,ProductCategoryID:long,ProductModelID:long,rowguid:guid,ModifiedDate:datetime)
+.create table [bronzeOrders] (SalesOrderID:long,SalesOrderDetailID:long,OrderQty:long,ProductID:int,UnitPrice:real,UnitPriceDiscount:real,LineTotal:real,ModifiedDate:datetime)
+.create table [bronzeClicks] (['date']:datetime,ProductID:int,browser:string,browserVersion:string,ip:string,device:string,source:string)
+
+
+.create table bronzeClicks ingestion json mapping 'bronzeClicks_mapping' '[{"column":"date", "Properties":{"Path":"$[\'date\']"}},{"column":"ProductID", "Properties":{"Path":"$[\'ProductID\']"}},{"column":"browser", "Properties":{"Path":"$[\'browser\']"}},{"column":"browserVersion", "Properties":{"Path":"$[\'browserVersion\']"}},{"column":"ip", "Properties":{"Path":"$[\'ip\']"}},{"column":"device", "Properties":{"Path":"$[\'device\']"}},{"column":"source", "Properties":{"Path":"$[\'source\']"}}]'
+
+
+.create table [silverProducts] (ProductID:int,Name:string,ProductNumber:string,Color:string,StandardCost:real,ListPrice:real,Size:string,Weight:string,ProductCategoryID:long,ProductModelID:long,rowguid:guid,ModifiedDate:datetime,WeightCategory:string)
+.create table [silverOrders] (SalesOrderID:long,SalesOrderDetailID:long,OrderQty:long,ProductID:int,UnitPrice:real,UnitPriceDiscount:real,LineTotal:real,ModifiedDate:datetime, UnitFinalPrice:real, PurchaseDate:datetime)
+.create table [silverClicks] (['date']:datetime,ProductID:int,browser:string,browserVersion:string,ip:string,device:string,source:string)
+
+
+.create function
+with (docstring = 'Ingest raw products data and calculate product weight category', folder='ingestprojection')
+ParseProducts ()
+{
+bronzeProducts
+| extend weightCategory = case(todouble(Weight) <= 100, "S", 
+                       todouble(Weight) <= 1000 and todouble(Weight) > 100 , "M", 
+                       todouble(Weight) > 1000, "L",
+                       "U")
+}
+ 
+.alter table
+silverProducts
+policy update @'[{"Source": "bronzeProducts", "Query": "ParseProducts", "IsEnabled" : true, "IsTransactional": true }]'
+
+
+.create function
+with (docstring = 'Ingest raw orders data and calculate the final unit price', folder='ingestprojection')
+ParseOrders ()
+{
+bronzeOrders
+| extend UnitFinalPrice = round(UnitPrice * (1-UnitPriceDiscount),2)
+| extend PurchaseDate = todatetime(split(ModifiedDate, " ")[0])
+}
+
+.alter table
+silverOrders 
+policy update @'[{"Source": "bronzeOrders", "Query": "ParseOrders", "IsEnabled" : true, "IsTransactional": true }]'
+
+
+.create function
+with (docstring = 'Ingest raw clicks', folder='ingestprojection')
+ParseClicks ()
+{
+bronzeClicks
+}
+
+.alter table
+silverClicks 
+policy update @'[{"Source": "bronzeClicks", "Query": "ParseClicks", "IsEnabled" : true, "IsTransactional": true }]'
+
+
+.create materialized-view silverOrdersLatest on table silverOrders
+{
+    silverOrders
+    | summarize arg_max(ModifiedDate, *) by SalesOrderID
+}
+
+
+
+.create materialized-view silverProductsLatest on table silverProducts
+{
+    silverProducts
+    | summarize arg_max(ModifiedDate, *) by ProductID
+}
