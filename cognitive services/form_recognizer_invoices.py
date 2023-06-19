@@ -69,9 +69,9 @@ def analyze_invoices():
         endpoint=endpoint, credential=AzureKeyCredential(key)
     )
 
-    for filename in os.listdir("./invoices/"):
+    for filename in os.listdir("cognitive services/invoices/"):
         idx = 0
-        with open(os.path.join("./invoices/", filename), 'rb') as f:
+        with open(os.path.join("cognitive services/invoices/", filename), 'rb') as f:
             poller = document_analysis_client.begin_analyze_document(
                 "prebuilt-invoice", document=f, locale="en-US"
         )   
