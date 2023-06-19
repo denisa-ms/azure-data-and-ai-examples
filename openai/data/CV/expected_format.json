@@ -1,0 +1,24 @@
+{
+    "person_name": "",
+    "email": "",
+    "phone": "",
+    "address": "",
+    "linkedin_profile": "",
+    "education": [
+      {
+        "university": "",
+        "degree": "",
+        "start_date": "",
+        "end_date": ""
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "",
+        "position": "",
+        "start_date": "",
+        "end_date": ""
+      }
+    ],
+    "other_info":[]
+  }
