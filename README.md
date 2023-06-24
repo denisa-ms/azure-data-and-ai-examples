@@ -19,9 +19,10 @@ This example shows how to extract json data from invoices using the Form Recogni
 This example shows how to extract tags from Images using Azure Computer Vision services SDK.
 
 ## OpenAI folder
-Contains many examples on how to connect to Azure OpenAI 
+Contains many examples on how to connect to Azure OpenAI  
 You can find full guides here:
 [Build a chatbot to query your documentation using Langchain and Azure OpenAI](https://techcommunity.microsoft.com/t5/startups-at-microsoft/build-a-chatbot-to-query-your-documentation-using-langchain-and/ba-p/3833134)
+
 
 [Use OpenAI GPT with your Enterprise Data](https://techcommunity.microsoft.com/t5/startups-at-microsoft/use-openai-gpt-with-your-enterprise-data/ba-p/3817141)
 
