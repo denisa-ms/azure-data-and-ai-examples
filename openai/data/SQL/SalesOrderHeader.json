@@ -1,0 +1,90 @@
+[
+  {
+    "COLUMN_NAME": "SalesOrderID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "RevisionNumber",
+    "DATA_TYPE": "tinyint"
+  },
+  {
+    "COLUMN_NAME": "OrderDate",
+    "DATA_TYPE": "datetime"
+  },
+  {
+    "COLUMN_NAME": "DueDate",
+    "DATA_TYPE": "datetime"
+  },
+  {
+    "COLUMN_NAME": "ShipDate",
+    "DATA_TYPE": "datetime"
+  },
+  {
+    "COLUMN_NAME": "Status",
+    "DATA_TYPE": "tinyint"
+  },
+  {
+    "COLUMN_NAME": "OnlineOrderFlag",
+    "DATA_TYPE": "bit"
+  },
+  {
+    "COLUMN_NAME": "SalesOrderNumber",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "PurchaseOrderNumber",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "AccountNumber",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "CustomerID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "ShipToAddressID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "BillToAddressID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "ShipMethod",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "CreditCardApprovalCode",
+    "DATA_TYPE": "varchar"
+  },
+  {
+    "COLUMN_NAME": "SubTotal",
+    "DATA_TYPE": "money"
+  },
+  {
+    "COLUMN_NAME": "TaxAmt",
+    "DATA_TYPE": "money"
+  },
+  {
+    "COLUMN_NAME": "Freight",
+    "DATA_TYPE": "money"
+  },
+  {
+    "COLUMN_NAME": "TotalDue",
+    "DATA_TYPE": "money"
+  },
+  {
+    "COLUMN_NAME": "Comment",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "rowguid",
+    "DATA_TYPE": "uniqueidentifier"
+  },
+  {
+    "COLUMN_NAME": "ModifiedDate",
+    "DATA_TYPE": "datetime"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "COLUMN_NAME": "ProductCategoryID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "ParentProductCategoryID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "Name",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "rowguid",
+    "DATA_TYPE": "uniqueidentifier"
+  },
+  {
+    "COLUMN_NAME": "ModifiedDate",
+    "DATA_TYPE": "datetime"
+  }
+]

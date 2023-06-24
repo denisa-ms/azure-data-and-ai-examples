@@ -1,0 +1,74 @@
+[
+  {
+    "COLUMN_NAME": "SalesOrderID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "SalesOrderID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "SalesOrderDetailID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "SalesOrderDetailID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "OrderQty",
+    "DATA_TYPE": "smallint"
+  },
+  {
+    "COLUMN_NAME": "OrderQty",
+    "DATA_TYPE": "smallint"
+  },
+  {
+    "COLUMN_NAME": "ProductID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "ProductID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "UnitPrice",
+    "DATA_TYPE": "money"
+  },
+  {
+    "COLUMN_NAME": "UnitPrice",
+    "DATA_TYPE": "money"
+  },
+  {
+    "COLUMN_NAME": "UnitPriceDiscount",
+    "DATA_TYPE": "money"
+  },
+  {
+    "COLUMN_NAME": "UnitPriceDiscount",
+    "DATA_TYPE": "money"
+  },
+  {
+    "COLUMN_NAME": "LineTotal",
+    "DATA_TYPE": "numeric"
+  },
+  {
+    "COLUMN_NAME": "LineTotal",
+    "DATA_TYPE": "numeric"
+  },
+  {
+    "COLUMN_NAME": "rowguid",
+    "DATA_TYPE": "uniqueidentifier"
+  },
+  {
+    "COLUMN_NAME": "rowguid",
+    "DATA_TYPE": "uniqueidentifier"
+  },
+  {
+    "COLUMN_NAME": "ModifiedDate",
+    "DATA_TYPE": "datetime"
+  },
+  {
+    "COLUMN_NAME": "ModifiedDate",
+    "DATA_TYPE": "datetime"
+  }
+]

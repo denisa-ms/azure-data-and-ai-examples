@@ -1,0 +1,18 @@
+[
+  {
+    "COLUMN_NAME": "ProductDescriptionID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "Description",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "rowguid",
+    "DATA_TYPE": "uniqueidentifier"
+  },
+  {
+    "COLUMN_NAME": "ModifiedDate",
+    "DATA_TYPE": "datetime"
+  }
+]

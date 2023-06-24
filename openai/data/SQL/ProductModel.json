@@ -1,0 +1,22 @@
+[
+  {
+    "COLUMN_NAME": "ProductModelID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "Name",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "CatalogDescription",
+    "DATA_TYPE": "xml"
+  },
+  {
+    "COLUMN_NAME": "rowguid",
+    "DATA_TYPE": "uniqueidentifier"
+  },
+  {
+    "COLUMN_NAME": "ModifiedDate",
+    "DATA_TYPE": "datetime"
+  }
+]

@@ -17,3 +17,4 @@ pypdf
 pymongo
 faiss-cpu
 azure-kusto.data
+pymssql

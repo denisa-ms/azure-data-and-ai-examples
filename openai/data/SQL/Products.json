@@ -1,0 +1,138 @@
+[
+  {
+    "COLUMN_NAME": "ProductID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "ProductID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "Name",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "Name",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "ProductNumber",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "ProductNumber",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "Color",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "Color",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "StandardCost",
+    "DATA_TYPE": "money"
+  },
+  {
+    "COLUMN_NAME": "StandardCost",
+    "DATA_TYPE": "money"
+  },
+  {
+    "COLUMN_NAME": "ListPrice",
+    "DATA_TYPE": "money"
+  },
+  {
+    "COLUMN_NAME": "ListPrice",
+    "DATA_TYPE": "money"
+  },
+  {
+    "COLUMN_NAME": "Size",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "Size",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "Weight",
+    "DATA_TYPE": "decimal"
+  },
+  {
+    "COLUMN_NAME": "Weight",
+    "DATA_TYPE": "decimal"
+  },
+  {
+    "COLUMN_NAME": "ProductCategoryID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "ProductCategoryID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "ProductModelID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "ProductModelID",
+    "DATA_TYPE": "int"
+  },
+  {
+    "COLUMN_NAME": "SellStartDate",
+    "DATA_TYPE": "datetime"
+  },
+  {
+    "COLUMN_NAME": "SellStartDate",
+    "DATA_TYPE": "datetime"
+  },
+  {
+    "COLUMN_NAME": "SellEndDate",
+    "DATA_TYPE": "datetime"
+  },
+  {
+    "COLUMN_NAME": "SellEndDate",
+    "DATA_TYPE": "datetime"
+  },
+  {
+    "COLUMN_NAME": "DiscontinuedDate",
+    "DATA_TYPE": "datetime"
+  },
+  {
+    "COLUMN_NAME": "DiscontinuedDate",
+    "DATA_TYPE": "datetime"
+  },
+  {
+    "COLUMN_NAME": "ThumbNailPhoto",
+    "DATA_TYPE": "varbinary"
+  },
+  {
+    "COLUMN_NAME": "ThumbNailPhoto",
+    "DATA_TYPE": "varbinary"
+  },
+  {
+    "COLUMN_NAME": "ThumbnailPhotoFileName",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "ThumbnailPhotoFileName",
+    "DATA_TYPE": "nvarchar"
+  },
+  {
+    "COLUMN_NAME": "rowguid",
+    "DATA_TYPE": "uniqueidentifier"
+  },
+  {
+    "COLUMN_NAME": "rowguid",
+    "DATA_TYPE": "uniqueidentifier"
+  },
+  {
+    "COLUMN_NAME": "ModifiedDate",
+    "DATA_TYPE": "datetime"
+  },
+  {
+    "COLUMN_NAME": "ModifiedDate",
+    "DATA_TYPE": "datetime"
+  }
+]
