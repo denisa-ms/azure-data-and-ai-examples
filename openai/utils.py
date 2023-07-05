@@ -41,6 +41,7 @@ def init_OpenAI(openai_endpoint= OPENAI_DEPLOYMENT_ENDPOINT, deployment_name = O
     openai.api_version = model_deployment_version
     openai.api_base = openai_endpoint
     openai.api_key = model_api_key
+    return openai
 
     return openai
 def init_llm(openai_endpoint= OPENAI_DEPLOYMENT_ENDPOINT, deployment_name = OPENAI_DEPLOYMENT_NAME,model_name=OPENAI_MODEL_NAME, model_deployment_version=OPENAI_DEPLOYMENT_VERSION, model_api_key=OPENAI_API_KEY): 
