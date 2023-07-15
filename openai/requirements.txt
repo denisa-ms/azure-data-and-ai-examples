@@ -18,3 +18,9 @@ pymongo
 faiss-cpu
 azure-kusto.data
 pymssql
+unstructured
+youtube-transcript-api
+pytube
+wikipedia
+azure.cosmos
+pymongo

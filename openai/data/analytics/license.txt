@@ -1,0 +1,12 @@
+source:
+https://catalog.data.gov/dataset/warehouse-and-retail-sales
+This is a Non-Federal dataset covered by different Terms of Use than Data.gov.
+Warehouse and Retail Sales
+Metadata Updated: July 8, 2023
+
+This dataset contains a list of sales and movement data by item and department appended monthly. Update Frequency : Monthly
+
+Access & Use Information
+Public: This dataset is intended for public access and use.
+Non-Federal: This dataset is covered by different Terms of Use than Data.gov.
+ License: No license information was provided.

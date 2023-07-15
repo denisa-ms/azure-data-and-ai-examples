@@ -34,7 +34,7 @@
     $ deactivate
 
 
-### Setup environemnt variables
+### Setup environment variables
 * Edit the `.env.template` file to include endpoints and api keys before starting any coding
 * Rename the file to `.env` and save
 

@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 import openai
 import os
 import PyPDF2
+import json
 
 load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY") 
@@ -34,6 +35,7 @@ KUSTO_TABLE = os.getenv("KUSTO_TABLE")
 KUSTO_MANAGED_IDENTITY_APP_ID = os.getenv("KUSTO_MANAGED_IDENTITY_APP_ID")
 KUSTO_MANAGED_IDENTITY_SECRET = os.getenv("KUSTO_MANAGED_IDENTITY_SECRET")
 
+COSMOS_MONGO_DB_CONN_STRING = os.getenv("COSMOS_MONGO_DB_CONN_STRING")
 
 def init_OpenAI(openai_endpoint= OPENAI_DEPLOYMENT_ENDPOINT, deployment_name = OPENAI_DEPLOYMENT_NAME,model_name=OPENAI_MODEL_NAME, model_deployment_version=OPENAI_DEPLOYMENT_VERSION, model_api_key=OPENAI_API_KEY):
     # Configure OpenAI API
@@ -43,7 +45,6 @@ def init_OpenAI(openai_endpoint= OPENAI_DEPLOYMENT_ENDPOINT, deployment_name = O
     openai.api_key = model_api_key
     return openai
 
-    return openai
 def init_llm(openai_endpoint= OPENAI_DEPLOYMENT_ENDPOINT, deployment_name = OPENAI_DEPLOYMENT_NAME,model_name=OPENAI_MODEL_NAME, model_deployment_version=OPENAI_DEPLOYMENT_VERSION, model_api_key=OPENAI_API_KEY): 
     llm = AzureChatOpenAI(deployment_name=deployment_name,
                       model_name=model_name,
@@ -78,7 +79,7 @@ def start_after_string(what, from_string):
     return answer
 
 def init_embeddings():
-    embeddings = OpenAIEmbeddings(model=OPENAI_ADA_EMBEDDING_MODEL_NAME, chunk_size=1)
+    embeddings = OpenAIEmbeddings(model=OPENAI_ADA_EMBEDDING_MODEL_NAME)
     return embeddings
 
 
@@ -98,3 +99,8 @@ def convertPdf2Txt(fileName, newfileName):
             txt = txt + text 
             newFile.writelines(text)
     newFile.close()
+
+def pretty_print_json_string(json_string):
+    json_object = json.loads(json_string)
+    json_formatted_str = json.dumps(json_object, indent=2)
+    print(json_formatted_str)
