@@ -24,3 +24,7 @@ pytube
 wikipedia
 azure.cosmos
 pymongo
+ipywidgets
+plotly.express
+nbformat>=4.2.0
+streamlit
