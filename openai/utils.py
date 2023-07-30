@@ -57,7 +57,8 @@ def init_llm(openai_endpoint= OPENAI_DEPLOYMENT_ENDPOINT, deployment_name = OPEN
     llm = AzureOpenAI(deployment_name=OPENAI_DEPLOYMENT_NAME, 
                 model_name=OPENAI_MODEL_NAME, 
                 openai_api_base=OPENAI_DEPLOYMENT_ENDPOINT, 
-                openai_api_key=OPENAI_API_KEY)
+                openai_api_key=OPENAI_API_KEY,
+                openai_api_version=OPENAI_DEPLOYMENT_VERSION)
     return llm
 
 def remove_tags(what, from_string):

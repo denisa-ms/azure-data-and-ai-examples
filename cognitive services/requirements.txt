@@ -1,5 +1,0 @@
-python-dotenv
-azure-ai-formrecognizer
-azure.core
-azure-cognitiveservices-vision-computervision
-Pillow

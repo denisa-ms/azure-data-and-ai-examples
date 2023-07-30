@@ -29,3 +29,7 @@ plotly.express
 nbformat>=4.2.0
 streamlit
 cohere
+azure-ai-formrecognizer
+azure.core
+azure-cognitiveservices-vision-computervision
+Pillow
