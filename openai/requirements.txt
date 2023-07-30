@@ -1,7 +1,7 @@
 python-dotenv
 azure.core
-langchain==0.0.187
-openai==0.27.6
+langchain==0.0.240
+openai==0.27.8
 pandas
 tiktoken
 PyPDF2
@@ -28,3 +28,4 @@ ipywidgets
 plotly.express
 nbformat>=4.2.0
 streamlit
+cohere

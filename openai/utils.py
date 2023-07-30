@@ -1,5 +1,5 @@
 from langchain.embeddings.openai import OpenAIEmbeddings
-from langchain.chat_models import AzureChatOpenAI
+from langchain.llms import AzureOpenAI
 from dotenv import load_dotenv
 import openai
 import os
@@ -37,6 +37,14 @@ KUSTO_MANAGED_IDENTITY_SECRET = os.getenv("KUSTO_MANAGED_IDENTITY_SECRET")
 
 COSMOS_MONGO_DB_CONN_STRING = os.getenv("COSMOS_MONGO_DB_CONN_STRING")
 
+COHERE_API_KEY = os.getenv("COHERE_API_KEY")
+
+# Configure OpenAI API
+openai.api_type = "azure"
+openai.api_version = OPENAI_DEPLOYMENT_VERSION
+openai.api_base = OPENAI_DEPLOYMENT_ENDPOINT
+openai.api_key = OPENAI_API_KEY
+
 def init_OpenAI(openai_endpoint= OPENAI_DEPLOYMENT_ENDPOINT, deployment_name = OPENAI_DEPLOYMENT_NAME,model_name=OPENAI_MODEL_NAME, model_deployment_version=OPENAI_DEPLOYMENT_VERSION, model_api_key=OPENAI_API_KEY):
     # Configure OpenAI API
     openai.api_type = "azure"
@@ -45,12 +53,11 @@ def init_OpenAI(openai_endpoint= OPENAI_DEPLOYMENT_ENDPOINT, deployment_name = O
     openai.api_key = model_api_key
     return openai
 
-def init_llm(openai_endpoint= OPENAI_DEPLOYMENT_ENDPOINT, deployment_name = OPENAI_DEPLOYMENT_NAME,model_name=OPENAI_MODEL_NAME, model_deployment_version=OPENAI_DEPLOYMENT_VERSION, model_api_key=OPENAI_API_KEY): 
-    llm = AzureChatOpenAI(deployment_name=deployment_name,
-                      model_name=model_name,
-                      openai_api_base=openai_endpoint,
-                      openai_api_version=model_deployment_version,
-                      openai_api_key=model_api_key)
+def init_llm(openai_endpoint= OPENAI_DEPLOYMENT_ENDPOINT, deployment_name = OPENAI_DEPLOYMENT_NAME,model_name=OPENAI_MODEL_NAME, model_deployment_version=OPENAI_DEPLOYMENT_VERSION, model_api_key=OPENAI_API_KEY):    
+    llm = AzureOpenAI(deployment_name=OPENAI_DEPLOYMENT_NAME, 
+                model_name=OPENAI_MODEL_NAME, 
+                openai_api_base=OPENAI_DEPLOYMENT_ENDPOINT, 
+                openai_api_key=OPENAI_API_KEY)
     return llm
 
 def remove_tags(what, from_string):
@@ -79,7 +86,11 @@ def start_after_string(what, from_string):
     return answer
 
 def init_embeddings():
-    embeddings = OpenAIEmbeddings(model=OPENAI_ADA_EMBEDDING_MODEL_NAME)
+    embeddings=OpenAIEmbeddings(deployment=OPENAI_ADA_EMBEDDING_DEPLOYMENT_NAME,
+                                model=OPENAI_ADA_EMBEDDING_MODEL_NAME,
+                                openai_api_base=OPENAI_DEPLOYMENT_ENDPOINT,
+                                openai_api_type="azure",
+                                chunk_size=1)
     return embeddings
 
 
