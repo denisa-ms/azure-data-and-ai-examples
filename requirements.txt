@@ -33,3 +33,4 @@ azure-ai-formrecognizer
 azure.core
 azure-cognitiveservices-vision-computervision
 Pillow
+azure-ai-vision
