@@ -1,4 +1,5 @@
-# This code recognizes the voice and converts it to text. Then it calls OpenAI API to extract entities from the text.
+# Food orders – speech to text to JSON – get a food order, use Azure AI Speech Cognitive service to transform 
+# speech to text and then using Azure OpenAI GPT3.5 to extract a JSON object that represents the order and can be used to search in a Database
 # In this case we are extracting restaurant order entities.
 # try saying:  I would like to order a large burger which French fries and a large coke.
 
