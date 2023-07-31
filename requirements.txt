@@ -34,3 +34,4 @@ azure.core
 azure-cognitiveservices-vision-computervision
 Pillow
 azure-ai-vision
+azure-cognitiveservices-speech
