@@ -67,3 +67,18 @@ policy update @'[{"Source": "bronzeClicks", "Query": "ParseClicks", "IsEnabled" 
     silverProducts
     | summarize arg_max(ModifiedDate, *) by ProductID
 }
+
+
+//aggregations for the gold layer
+
+silverOrdersLatest
+| join kind=inner silverProductsLatest on $left.ProductID == $right.ProductID
+| summarize DailySales = sum(LineTotal) by PurchaseDate, ProductID, Name
+
+
+
+
+
+silverClicks
+| join kind=inner silverProductsLatest on $left.ProductID == $right.ProductID
+| summarize DailyClicks = count() by 'date', ProductID, browser, browserVersion, device, source
