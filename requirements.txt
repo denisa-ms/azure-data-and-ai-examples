@@ -1,5 +1,4 @@
 python-dotenv
-azure.core
 langchain==0.0.240
 openai==0.27.8
 pandas
@@ -35,3 +34,6 @@ azure-cognitiveservices-vision-computervision
 Pillow
 azure-ai-vision
 azure-cognitiveservices-speech
+azureml-core
+azure-ai-ml
+azure-identity
