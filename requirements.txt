@@ -4,7 +4,6 @@ openai==0.27.8
 pandas
 tiktoken
 PyPDF2
-matplotlib
 plotly
 scipy
 scikit-learn
@@ -37,3 +36,7 @@ azure-cognitiveservices-speech
 azureml-core
 azure-ai-ml
 azure-identity
+azureml-dataset-runtime
+mltable
+azureml-opendatasets
+azureml-datadrift>=1.53.0
