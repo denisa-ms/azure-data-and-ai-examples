@@ -39,4 +39,5 @@ azure-identity
 azureml-dataset-runtime
 mltable
 azureml-opendatasets
-azureml-datadrift>=1.53.0
+matplotlib==3.8.1
+matplotlib-inline==0.1.6
