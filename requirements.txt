@@ -41,3 +41,6 @@ mltable
 azureml-opendatasets
 matplotlib==3.8.1
 matplotlib-inline==0.1.6
+spacy
+presidio-analyzer
+presidio_anonymizer
